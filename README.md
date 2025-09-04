@@ -1,4 +1,5 @@
 ### PoliceEMSActivity
+[![Developer Discord]](https://discord.gg/m39AUuSatU)
 
     So you want a script in which other emergency services can see their colleagues on the mini map with their locations, but you don't want regular players to see these blips unless they are on duty as well? You want this script to support multiple roles? You want it to be customizable? You want it to use discord for the permission basis of it? Oh well, I have the script for you.
 
